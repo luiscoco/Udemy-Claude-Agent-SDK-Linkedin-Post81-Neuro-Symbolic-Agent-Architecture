@@ -1,0 +1,15 @@
+{
+  "lesson": 80,
+  "application": "Rules-Checked Loyalty Assistant",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "rule_decision": {
+      "discount_usd": "12.00",
+      "payable_usd": "108.00",
+      "rule": "10% for 2+ years, otherwise 5%; maximum 20 USD"
+    },
+    "explanation": "The three-year member receives a 12.00 USD discount and pays 108.00 USD."
+  },
+  "measured_cost_usd": null
+}
